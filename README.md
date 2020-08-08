@@ -3,4 +3,4 @@ This project doesn't have any code at all. It's just a simple way to test out gi
 
 Adding a second paragraph, will add more to this later, to test squash merge. Here's the second sentence. Let's take a look.
 
-Now I'm going to make a few more edits.
+Now I'm going to make a few more edits. Even more to the third paragraph.
